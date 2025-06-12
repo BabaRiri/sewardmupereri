@@ -1,0 +1,22 @@
+<svg width="400" height="250" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250">
+  <!-- Background -->
+  <rect width="400" height="250" fill="#03045e"/>
+  
+  <!-- AWS Logo Simplified -->
+  <g transform="translate(150, 70) scale(0.8)">
+    <path d="M37,53 L100,53 L100,73 L37,73 Z" fill="#FF9900"/>
+    <path d="M37,33 L100,33 L100,53 L37,53 Z" fill="#FF9900"/>
+    <path d="M67,13 L130,13 L130,33 L67,33 Z" fill="#FF9900"/>
+    <path d="M67,73 L130,73 L130,93 L67,93 Z" fill="#FF9900"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="200" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">AWS AI Practitioner</text>
+  <text x="200" y="175" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">Machine Learning & AI</text>
+  
+  <!-- Decorative Elements -->
+  <circle cx="50" cy="50" r="15" fill="none" stroke="#FF9900" stroke-width="2"/>
+  <circle cx="350" cy="200" r="15" fill="none" stroke="#FF9900" stroke-width="2"/>
+  <path d="M20,200 Q100,150 180,200" stroke="#FF9900" stroke-width="2" fill="none"/>
+  <path d="M220,200 Q300,150 380,200" stroke="#FF9900" stroke-width="2" fill="none"/>
+</svg>
